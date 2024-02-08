@@ -12,6 +12,18 @@ This is a portfolio website built with Next.js and Tailwind CSS. It showcases yo
 
 1. Start the development server: `npm run dev`
 2. Open your browser and visit `http://localhost:3000` to view the website.
+3. Test the production build: `npm run build`
+
+## Git Workflow
+1. Make changes
+2. Click on Source Control button
+3. Add a message (commit update message)
+4. Stage Changes (click plus button next to changes - stages all)
+5. Click commit
+6. Click sync changes
+
+## Website
+- Change text: `/src/info.js`
 
 ## Dependencies
 
