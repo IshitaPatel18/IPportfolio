@@ -1,12 +1,12 @@
 // Navbar Logo
-export const logo = "JD"
+export const logo = "IP"
 
 // About me info
-export const name = "Jane Doe"
+export const name = "Ishita Patel"
 export const title1 = "a developer"
 export const title2 = "a student"
 export const title3 = "a creator"
-export const shortDesc = "I'm currently a student at the University of Toronto studying Computer Science."
+export const shortDesc = "I'm currently a student at the University of Wyoming studying Computer Science."
 export const resumeName = "resume.txt"
 
 // About section
@@ -75,6 +75,6 @@ export const projectsData = [
 
 
 // Social Links
-export const githubUrl = "github.com"
+export const githubUrl = "https://github.com/IshitaPatel18"
 export const linkedinUrl = "linkedin.com"
-export const email = "gmail.com"
+export const email = "Pishita@gmail.com"
