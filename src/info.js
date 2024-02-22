@@ -10,7 +10,7 @@ export const shortDesc = "I'm currently a student at the University of Wyoming s
 export const resumeName = "resume.txt"
 
 // About section
-export const aboutDesc = "I am a full stack web developer with a passion for creating interactive and responsive web applications. I have experience working with JavaScript, React, Redux, Node.js, Express, PostgreSQL, Sequelize, HTML, CSS, and Git. I am a quick learner and I am always looking to expand my knowledge and skill set. I am a team player and I am excited to work with others to create amazing applications."
+export const aboutDesc = "I am currently a Sophomore at the University of Wyoming with an interest in language learning and applications complimentary to each. I have worked with C++, Python, Java, and Javascript, with small to medium projects in each. Similarly, in my free time, I enjoy painting with different mediums, playing games with friends, and listening to music. I find myself to be very creative and experimenting with new techniques!"
 export const skills = ["JavaScript", "React", "Redux", "Node.js", "Express", "PostgreSQL"]
 export const education = ["University of Wyoming", "Bachelor of Science in Computer Science", "GPA: 3.8"]
 export const certifications = ["Full Stack Web Development Bootcamp", "AWS Certified Developer - Associate"]
