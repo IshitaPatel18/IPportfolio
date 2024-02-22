@@ -2,7 +2,7 @@
 import React, { useTransition, useState } from "react";
 import Image from "next/image";
 import TabButton from "./TabButton";
-import {aboutDesc, skills, education, certifications} from "@/info";
+import {aboutDesc, skills, education, languages} from "@/info";
 const TAB_DATA = [
   {
     title: "Skills",
@@ -27,11 +27,11 @@ const TAB_DATA = [
     ),
   },
   {
-    title: "Certifications",
-    id: "certifications",
+    title: "Languages",
+    id: "languages",
     content: (
       <ul className="list-disc pl-2">
-        {certifications.map((cert, index) => (
+        {languages.map((cert, index) => (
           <li key={index}>{cert}</li>
         ))}
       </ul>
@@ -74,11 +74,11 @@ const AboutSection = () => {
               Education{" "}
             </TabButton>
             <TabButton
-              selectTab={() => handleTabChange("certifications")}
-              active={tab === "certifications"}
+              selectTab={() => handleTabChange("languages")}
+              active={tab === "languages"}
             >
               {" "}
-              Certifications{" "}
+              Languages{" "}
             </TabButton>
           </div>
           <div className="mt-8">
