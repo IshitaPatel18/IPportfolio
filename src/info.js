@@ -11,9 +11,9 @@ export const resumeName = "resume.txt"
 
 // About section
 export const aboutDesc = "I am currently a Sophomore at the University of Wyoming with an interest in language learning and applications complimentary to each. I have worked with C++, Python, Java, and Javascript, with small to medium projects in each. Similarly, in my free time, I enjoy painting with different mediums, playing games with friends, and listening to music. I find myself to be very creative and experimenting with new techniques!"
-export const skills = ["JavaScript", "React", "Redux", "Node.js", "Express", "PostgreSQL"]
+export const skills = ["Teamwork", "Adaptibility", "Listening and Comprehension", "Communication"]
 export const education = ["University of Wyoming", "Bachelor of Science in Computer Science", "GPA: 3.8"]
-export const languages = ["Full Stack Web Development Bootcamp", "AWS Certified Developer - Associate"]
+export const languages = ["C++", "Python", "Javascript", "Java"]
 
 // Projects section
 export const projectsData = [
